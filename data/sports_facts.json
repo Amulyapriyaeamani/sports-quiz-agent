@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "sport": "Cricket",
+        "category": "History",
+        "difficulty": "Easy",
+        "fact": "The first official Test cricket match was played in 1877 between Australia and England at the Melbourne Cricket Ground."
+    },
+    {
+        "id": 2,
+        "sport": "Cricket",
+        "category": "Records",
+        "difficulty": "Hard",
+        "fact": "Brian Lara holds the record for the highest individual score in Test cricket, scoring 400 not out against England in 2004."
+    },
+    {
+        "id": 3,
+        "sport": "Cricket",
+        "category": "Tournaments",
+        "difficulty": "Easy",
+        "fact": "The ICC Cricket World Cup was first held in 1975 in England, with the West Indies winning the inaugural tournament."
+    },
+    {
+        "id": 4,
+        "sport": "Cricket",
+        "category": "Players",
+        "difficulty": "Medium",
+        "fact": "Sachin Tendulkar is the only cricketer to have scored 100 international centuries across Test and One Day International formats."
+    },
+    {
+        "id": 5,
+        "sport": "Cricket",
+        "category": "Rules",
+        "difficulty": "Easy",
+        "fact": "In cricket, a bowler is credited with a hat-trick when they dismiss three batsmen with three consecutive deliveries."
+    },
+    {
+        "id": 6,
+        "sport": "Cricket",
+        "category": "Venues",
+        "difficulty": "Medium",
+        "fact": "Lord's Cricket Ground in London, home to Marylebone Cricket Club, is often referred to as the home of cricket."
+    },
+    {
+        "id": 7,
+        "sport": "Cricket",
+        "category": "Records",
+        "difficulty": "Medium",
+        "fact": "Muttiah Muralitharan holds the record for most wickets in Test cricket, taking 800 wickets during his career for Sri Lanka."
+    },
+    {
+        "id": 8,
+        "sport": "Cricket",
+        "category": "Tournaments",
+        "difficulty": "Medium",
+        "fact": "The Indian Premier League, launched in 2008, is a Twenty20 franchise cricket league organized by the Board of Control for Cricket in India."
+    },
+    {
+        "id": 9,
+        "sport": "Cricket",
+        "category": "Teams",
+        "difficulty": "Easy",
+        "fact": "Australia has won the ICC Cricket World Cup a record six times, including titles in 1987, 1999, 2003, 2007, 2015, and 2023."
+    },
+    {
+        "id": 10,
+        "sport": "Cricket",
+        "category": "Trivia",
+        "difficulty": "Medium",
+        "fact": "The term 'googly' refers to a deceptive delivery bowled by a leg-spinner that turns unexpectedly in the opposite direction."
+    },
+    {
+        "id": 11,
+        "sport": "Cricket",
+        "category": "Players",
+        "difficulty": "Hard",
+        "fact": "Sir Donald Bradman finished his Test career with a batting average of 99.94, widely regarded as the greatest statistic in sport."
+    },
+    {
+        "id": 12,
+        "sport": "Cricket",
+        "category": "History",
+        "difficulty": "Medium",
+        "fact": "The first Cricket World Cup for women was held in 1973, two years before the men's edition, and was won by England."
+    },
+    {
+        "id": 13,
+        "sport": "Cricket",
+        "category": "Rules",
+        "difficulty": "Medium",
+        "fact": "The Decision Review System, introduced in 2008, allows teams to challenge on-field umpiring decisions using technology like Hawk-Eye."
+    },
+    {
+        "id": 14,
+        "sport": "Cricket",
+        "category": "Venues",
+        "difficulty": "Hard",
+        "fact": "The Melbourne Cricket Ground, opened in 1853, has a capacity of over 100,000 spectators, making it one of the largest stadiums in the world."
+    },
+    {
+        "id": 15,
+        "sport": "Cricket",
+        "category": "Records",
+        "difficulty": "Medium",
+        "fact": "Rohit Sharma holds the record for the highest individual score in a One Day International, scoring 264 runs against Sri Lanka in 2014."
+    },
+    {
+        "id": 16,
+        "sport": "Football",
+        "category": "History",
+        "difficulty": "Easy",
+        "fact": "The first official football World Cup was held in Uruguay in 1930, with the host nation winning the inaugural title."
+    },
+    {
+        "id": 17,
+        "sport": "Football",
+        "category": "Records",
+        "difficulty": "Medium",
+        "fact": "Cristiano Ronaldo is the all-time top scorer in men's international football, surpassing 130 goals for Portugal."
+    },
+    {
+        "id": 18,
+        "sport": "Football",
+        "category": "Players",
+        "difficulty": "Easy",
+        "fact": "Lionel Messi has won the Ballon d'Or award a record eight times during his career with Barcelona, Paris Saint-Germain, and Inter Miami."
+    },
+    {
+        "id": 19,
+        "sport": "Football",
+        "category": "Tournaments",
+        "difficulty": "Medium",
+        "fact": "The UEFA Champions League is Europe's premier club football competition, with Real Madrid winning the title a record 15 times."
+    },
+    {
+        "id": 20,
+        "sport": "Football",
+        "category": "Rules",
+        "difficulty": "Easy",
+        "fact": "A football match consists of two 45-minute halves, with additional stoppage time added by the referee for delays during play."
+    },
+    {
+        "id": 21,
+        "sport": "Football",
+        "category": "Venues",
+        "difficulty": "Medium",
+        "fact": "Camp Nou in Barcelona, home to FC Barcelona, is one of the largest football stadiums in Europe with a capacity exceeding 99,000."
+    },
+    {
+        "id": 22,
+        "sport": "Football",
+        "category": "Teams",
+        "difficulty": "Medium",
+        "fact": "Brazil has won the FIFA World Cup a record five times, in 1958, 1962, 1970, 1994, and 2002."
+    },
+    {
+        "id": 23,
+        "sport": "Football",
+        "category": "Trivia",
+        "difficulty": "Medium",
+        "fact": "The offside rule prevents an attacking player from being in an advantageous position closer to the goal line than both the ball and the second-last defender."
+    },
+    {
+        "id": 24,
+        "sport": "Football",
+        "category": "Records",
+        "difficulty": "Hard",
+        "fact": "Josef Bican is credited by FIFA with scoring over 800 career goals, making him one of the most prolific goalscorers in football history."
+    },
+    {
+        "id": 25,
+        "sport": "Football",
+        "category": "History",
+        "difficulty": "Medium",
+        "fact": "The English Football Association, founded in 1863, was the first governing body established to codify the rules of association football."
+    },
+    {
+        "id": 26,
+        "sport": "Football",
+        "category": "Tournaments",
+        "difficulty": "Easy",
+        "fact": "The UEFA European Championship, first held in 1960, is contested every four years among Europe's national football teams."
+    },
+    {
+        "id": 27,
+        "sport": "Football",
+        "category": "Players",
+        "difficulty": "Medium",
+        "fact": "Pele won three FIFA World Cup titles with Brazil in 1958, 1962, and 1970, a feat unmatched by any other player."
+    },
+    {
+        "id": 28,
+        "sport": "Football",
+        "category": "Trivia",
+        "difficulty": "Easy",
+        "fact": "A hat-trick in football refers to a single player scoring three goals in one match."
+    },
+    {
+        "id": 29,
+        "sport": "Football",
+        "category": "Venues",
+        "difficulty": "Hard",
+        "fact": "The Maracana Stadium in Rio de Janeiro once held over 199,000 spectators for the 1950 World Cup final between Brazil and Uruguay."
+    },
+    {
+        "id": 30,
+        "sport": "Football",
+        "category": "Records",
+        "difficulty": "Medium",
+        "fact": "Lionel Messi holds the record for most goals scored in a single calendar year, netting 91 goals in 2012 for club and country."
+    },
+    {
+        "id": 31,
+        "sport": "Tennis",
+        "category": "History",
+        "difficulty": "Easy",
+        "fact": "The Wimbledon Championships, first held in 1877, is the oldest tennis tournament in the world and is played on grass courts."
+    },
+    {
+        "id": 32,
+        "sport": "Tennis",
+        "category": "Records",
+        "difficulty": "Medium",
+        "fact": "Novak Djokovic holds the record for most Grand Slam men's singles titles, having won 24 major championships in his career."
+    },
+    {
+        "id": 33,
+        "sport": "Tennis",
+        "category": "Players",
+        "difficulty": "Medium",
+        "fact": "Serena Williams won 23 Grand Slam singles titles, the most by any player in the Open Era of tennis."
+    },
+    {
+        "id": 34,
+        "sport": "Tennis",
+        "category": "Tournaments",
+        "difficulty": "Easy",
+        "fact": "The four Grand Slam tournaments in tennis are the Australian Open, French Open, Wimbledon, and the US Open."
+    },
+    {
+        "id": 35,
+        "sport": "Tennis",
+        "category": "Rules",
+        "difficulty": "Medium",
+        "fact": "A tennis set is typically won by the first player to reach six games with a margin of at least two games over their opponent."
+    },
+    {
+        "id": 36,
+        "sport": "Tennis",
+        "category": "Venues",
+        "difficulty": "Medium",
+        "fact": "The French Open is played at Stade Roland Garros in Paris on distinctive red clay courts, unlike the other three Grand Slams."
+    },
+    {
+        "id": 37,
+        "sport": "Tennis",
+        "category": "Trivia",
+        "difficulty": "Easy",
+        "fact": "In tennis scoring, the term 'love' is used to denote a score of zero points in a game."
+    },
+    {
+        "id": 38,
+        "sport": "Tennis",
+        "category": "Records",
+        "difficulty": "Hard",
+        "fact": "Margaret Court holds the record for most Grand Slam singles titles overall, with 24 wins spanning the amateur and Open Eras."
+    },
+    {
+        "id": 39,
+        "sport": "Tennis",
+        "category": "Players",
+        "difficulty": "Medium",
+        "fact": "Roger Federer held the record for most weeks ranked world number one at the time of his retirement in 2022."
+    },
+    {
+        "id": 40,
+        "sport": "Tennis",
+        "category": "History",
+        "difficulty": "Medium",
+        "fact": "The Open Era of tennis began in 1968 when Grand Slam tournaments allowed both amateur and professional players to compete."
+    },
+    {
+        "id": 41,
+        "sport": "Tennis",
+        "category": "Trivia",
+        "difficulty": "Medium",
+        "fact": "The US Open was the first Grand Slam tournament to introduce a tie-break system to decide sets, starting in 1970."
+    },
+    {
+        "id": 42,
+        "sport": "Tennis",
+        "category": "Teams",
+        "difficulty": "Medium",
+        "fact": "The Davis Cup, first contested in 1900, is the premier international team competition in men's tennis, organized by country."
+    },
+    {
+        "id": 43,
+        "sport": "Badminton",
+        "category": "History",
+        "difficulty": "Medium",
+        "fact": "Modern badminton originated in British India in the 19th century before being formalized in England during the 1870s."
+    },
+    {
+        "id": 44,
+        "sport": "Badminton",
+        "category": "Rules",
+        "difficulty": "Easy",
+        "fact": "A standard badminton match is played as the best of three games, with each game won by the first player to reach 21 points."
+    },
+    {
+        "id": 45,
+        "sport": "Badminton",
+        "category": "Players",
+        "difficulty": "Medium",
+        "fact": "Lin Dan is one of only two male players to complete a career Grand Slam, winning all major badminton titles including Olympic gold twice."
+    },
+    {
+        "id": 46,
+        "sport": "Badminton",
+        "category": "Tournaments",
+        "difficulty": "Easy",
+        "fact": "The All England Open Badminton Championships, first held in 1899, is the oldest and most prestigious badminton tournament in the world."
+    },
+    {
+        "id": 47,
+        "sport": "Badminton",
+        "category": "Records",
+        "difficulty": "Hard",
+        "fact": "The fastest recorded badminton smash exceeded 565 kilometers per hour, achieved by Malaysian player Tan Boon Heong in testing conditions."
+    },
+    {
+        "id": 48,
+        "sport": "Badminton",
+        "category": "Teams",
+        "difficulty": "Medium",
+        "fact": "Indonesia has won the Thomas Cup, badminton's premier men's team event, more times than any other nation since the tournament began in 1949."
+    },
+    {
+        "id": 49,
+        "sport": "Badminton",
+        "category": "Venues",
+        "difficulty": "Medium",
+        "fact": "The Badminton World Federation is headquartered in Kuala Lumpur, Malaysia, overseeing global governance of the sport."
+    },
+    {
+        "id": 50,
+        "sport": "Badminton",
+        "category": "Trivia",
+        "difficulty": "Easy",
+        "fact": "A badminton shuttlecock, or birdie, is traditionally made from 16 goose feathers attached to a rounded cork base."
+    },
+    {
+        "id": 51,
+        "sport": "Badminton",
+        "category": "Players",
+        "difficulty": "Medium",
+        "fact": "P.V. Sindhu became the first Indian woman to win an Olympic silver medal in badminton at the 2016 Rio Olympics."
+    },
+    {
+        "id": 52,
+        "sport": "Badminton",
+        "category": "Records",
+        "difficulty": "Medium",
+        "fact": "China's badminton team has historically dominated the Uber Cup, the women's team world championship first held in 1956-57."
+    },
+    {
+        "id": 53,
+        "sport": "Badminton",
+        "category": "History",
+        "difficulty": "Hard",
+        "fact": "Badminton became an official Olympic sport at the 1992 Barcelona Games, after appearing as a demonstration sport in earlier editions."
+    },
+    {
+        "id": 54,
+        "sport": "Badminton",
+        "category": "Rules",
+        "difficulty": "Medium",
+        "fact": "In badminton, a let is called when play is stopped and restarted without a change in score due to an unforeseen disturbance."
+    },
+    {
+        "id": 55,
+        "sport": "Basketball",
+        "category": "History",
+        "difficulty": "Easy",
+        "fact": "Basketball was invented in 1891 by Canadian physical education instructor James Naismith at a YMCA training school in Massachusetts."
+    },
+    {
+        "id": 56,
+        "sport": "Basketball",
+        "category": "Records",
+        "difficulty": "Medium",
+        "fact": "Kareem Abdul-Jabbar was the all-time leading scorer in NBA history for nearly four decades before LeBron James surpassed his record in 2023."
+    },
+    {
+        "id": 57,
+        "sport": "Basketball",
+        "category": "Players",
+        "difficulty": "Easy",
+        "fact": "Michael Jordan won six NBA championships with the Chicago Bulls and was named Finals MVP in each of those title runs."
+    },
+    {
+        "id": 58,
+        "sport": "Basketball",
+        "category": "Tournaments",
+        "difficulty": "Medium",
+        "fact": "The NBA Finals determine the champion of the National Basketball Association, played as a best-of-seven series between conference champions."
+    },
+    {
+        "id": 59,
+        "sport": "Basketball",
+        "category": "Rules",
+        "difficulty": "Easy",
+        "fact": "A standard NBA basketball game consists of four quarters, each lasting 12 minutes, for a total of 48 minutes of regulation play."
+    },
+    {
+        "id": 60,
+        "sport": "Basketball",
+        "category": "Teams",
+        "difficulty": "Medium",
+        "fact": "The Boston Celtics and Los Angeles Lakers share the record for most NBA championships won, each with 17 titles as of 2023."
+    },
+    {
+        "id": 61,
+        "sport": "Basketball",
+        "category": "Venues",
+        "difficulty": "Medium",
+        "fact": "Madison Square Garden in New York City, home to the New York Knicks, is one of the most iconic arenas in basketball history."
+    },
+    {
+        "id": 62,
+        "sport": "Basketball",
+        "category": "Trivia",
+        "difficulty": "Medium",
+        "fact": "The three-point line was introduced to the NBA in the 1979-80 season, changing offensive strategies across the league."
+    },
+    {
+        "id": 63,
+        "sport": "Basketball",
+        "category": "Records",
+        "difficulty": "Hard",
+        "fact": "Wilt Chamberlain scored 100 points in a single NBA game in 1962, a record that has never been matched or broken."
+    },
+    {
+        "id": 64,
+        "sport": "Basketball",
+        "category": "Players",
+        "difficulty": "Medium",
+        "fact": "LeBron James has won NBA championships with three different franchises: the Miami Heat, Cleveland Cavaliers, and Los Angeles Lakers."
+    },
+    {
+        "id": 65,
+        "sport": "Basketball",
+        "category": "History",
+        "difficulty": "Medium",
+        "fact": "The NBA was founded in 1946 as the Basketball Association of America before merging with the National Basketball League in 1949."
+    },
+    {
+        "id": 66,
+        "sport": "Basketball",
+        "category": "Trivia",
+        "difficulty": "Easy",
+        "fact": "A basketball hoop is regulated to stand exactly 10 feet, or 3.05 meters, above the playing surface in professional competition."
+    },
+    {
+        "id": 67,
+        "sport": "Hockey",
+        "category": "History",
+        "difficulty": "Medium",
+        "fact": "Field hockey has ancient origins, with stick-and-ball games traced back to civilizations in Egypt, Persia, and Greece thousands of years ago."
+    },
+    {
+        "id": 68,
+        "sport": "Hockey",
+        "category": "Records",
+        "difficulty": "Medium",
+        "fact": "India won the Olympic field hockey gold medal a record eight times, dominating the sport from 1928 through 1980."
+    },
+    {
+        "id": 69,
+        "sport": "Hockey",
+        "category": "Rules",
+        "difficulty": "Easy",
+        "fact": "A standard field hockey match is played over four quarters of 15 minutes each, following rule changes introduced by the FIH in 2014."
+    },
+    {
+        "id": 70,
+        "sport": "Hockey",
+        "category": "Tournaments",
+        "difficulty": "Easy",
+        "fact": "The Hockey World Cup, first held in 1971, is organized by the International Hockey Federation and features top national teams globally."
+    },
+    {
+        "id": 71,
+        "sport": "Hockey",
+        "category": "Players",
+        "difficulty": "Hard",
+        "fact": "Dhyan Chand, an Indian field hockey player, scored over 400 goals in his career and helped India win three Olympic gold medals."
+    },
+    {
+        "id": 72,
+        "sport": "Hockey",
+        "category": "Venues",
+        "difficulty": "Medium",
+        "fact": "The Kalinga Stadium in Bhubaneswar, India, has hosted multiple editions of the Hockey World Cup, including in 2018 and 2023."
+    },
+    {
+        "id": 73,
+        "sport": "Hockey",
+        "category": "Trivia",
+        "difficulty": "Medium",
+        "fact": "In field hockey, players are prohibited from using the rounded back side of the stick to hit or control the ball."
+    },
+    {
+        "id": 74,
+        "sport": "Hockey",
+        "category": "Teams",
+        "difficulty": "Medium",
+        "fact": "The Netherlands men's and women's field hockey teams are both among the most successful nations in modern World Cup and Olympic competition."
+    },
+    {
+        "id": 75,
+        "sport": "Hockey",
+        "category": "Rules",
+        "difficulty": "Medium",
+        "fact": "A penalty corner in field hockey is awarded for defensive infractions inside the circle, giving the attacking team a set-piece scoring opportunity."
+    },
+    {
+        "id": 76,
+        "sport": "Hockey",
+        "category": "History",
+        "difficulty": "Hard",
+        "fact": "Field hockey was introduced as an Olympic sport for men in 1908 at the London Games, though it was later dropped and reinstated."
+    },
+    {
+        "id": 77,
+        "sport": "Formula 1",
+        "category": "History",
+        "difficulty": "Easy",
+        "fact": "The first Formula 1 World Championship race was held at Silverstone Circuit in England on May 13, 1950."
+    },
+    {
+        "id": 78,
+        "sport": "Formula 1",
+        "category": "Records",
+        "difficulty": "Medium",
+        "fact": "Lewis Hamilton and Michael Schumacher share the record for most Formula 1 World Drivers' Championships, each having won seven titles."
+    },
+    {
+        "id": 79,
+        "sport": "Formula 1",
+        "category": "Players",
+        "difficulty": "Medium",
+        "fact": "Michael Schumacher won five consecutive Formula 1 World Championships with Ferrari between 2000 and 2004."
+    },
+    {
+        "id": 80,
+        "sport": "Formula 1",
+        "category": "Tournaments",
+        "difficulty": "Easy",
+        "fact": "The Monaco Grand Prix, held on the narrow streets of Monte Carlo, is regarded as one of the most prestigious races on the F1 calendar."
+    },
+    {
+        "id": 81,
+        "sport": "Formula 1",
+        "category": "Rules",
+        "difficulty": "Medium",
+        "fact": "In Formula 1, drivers are awarded points based on their finishing position, with the race winner earning 25 points under current regulations."
+    },
+    {
+        "id": 82,
+        "sport": "Formula 1",
+        "category": "Teams",
+        "difficulty": "Medium",
+        "fact": "Scuderia Ferrari is the oldest surviving team in Formula 1, having competed continuously since the championship began in 1950."
+    },
+    {
+        "id": 83,
+        "sport": "Formula 1",
+        "category": "Venues",
+        "difficulty": "Medium",
+        "fact": "The Circuit de Spa-Francorchamps in Belgium is known for its challenging Eau Rouge corner and unpredictable weather conditions."
+    },
+    {
+        "id": 84,
+        "sport": "Formula 1",
+        "category": "Trivia",
+        "difficulty": "Medium",
+        "fact": "A Formula 1 pit stop for tire changes can be completed by a skilled crew in under three seconds during competitive races."
+    },
+    {
+        "id": 85,
+        "sport": "Formula 1",
+        "category": "Records",
+        "difficulty": "Hard",
+        "fact": "Sebastian Vettel became the youngest Formula 1 World Champion in 2010 at age 23, driving for Red Bull Racing."
+    },
+    {
+        "id": 86,
+        "sport": "Formula 1",
+        "category": "Players",
+        "difficulty": "Medium",
+        "fact": "Ayrton Senna won three Formula 1 World Championships and is widely remembered as one of the sport's most skilled and daring drivers."
+    },
+    {
+        "id": 87,
+        "sport": "Formula 1",
+        "category": "History",
+        "difficulty": "Hard",
+        "fact": "The Constructors' Championship in Formula 1 was introduced in 1958, eight years after the Drivers' Championship began."
+    },
+    {
+        "id": 88,
+        "sport": "Formula 1",
+        "category": "Trivia",
+        "difficulty": "Easy",
+        "fact": "The safety car is deployed in Formula 1 to neutralize dangerous track conditions while allowing the race to continue at reduced speed."
+    },
+    {
+        "id": 89,
+        "sport": "Olympics",
+        "category": "History",
+        "difficulty": "Easy",
+        "fact": "The modern Olympic Games were revived in 1896 in Athens, Greece, through the efforts of French educator Pierre de Coubertin."
+    },
+    {
+        "id": 90,
+        "sport": "Olympics",
+        "category": "Records",
+        "difficulty": "Medium",
+        "fact": "Michael Phelps holds the record for most Olympic medals won by an individual, with 28 medals across four Olympic Games."
+    },
+    {
+        "id": 91,
+        "sport": "Olympics",
+        "category": "Players",
+        "difficulty": "Medium",
+        "fact": "Usain Bolt won eight Olympic gold medals in sprinting events, including three consecutive 100-meter titles from 2008 to 2016."
+    },
+    {
+        "id": 92,
+        "sport": "Olympics",
+        "category": "Tournaments",
+        "difficulty": "Easy",
+        "fact": "The Summer and Winter Olympic Games are each held every four years, staggered two years apart since 1994."
+    },
+    {
+        "id": 93,
+        "sport": "Olympics",
+        "category": "Venues",
+        "difficulty": "Medium",
+        "fact": "The Bird's Nest Stadium in Beijing hosted the opening and closing ceremonies for the 2008 Summer Olympics."
+    },
+    {
+        "id": 94,
+        "sport": "Olympics",
+        "category": "Trivia",
+        "difficulty": "Easy",
+        "fact": "The five interlocking rings of the Olympic symbol represent the union of five inhabited continents participating in the Games."
+    },
+    {
+        "id": 95,
+        "sport": "Olympics",
+        "category": "History",
+        "difficulty": "Hard",
+        "fact": "The 1904 St. Louis Olympics were the first Games held outside Europe, coinciding with the Louisiana Purchase Exposition."
+    },
+    {
+        "id": 96,
+        "sport": "Olympics",
+        "category": "Records",
+        "difficulty": "Hard",
+        "fact": "Larisa Latynina, a Soviet gymnast, held the record for most Olympic medals until Michael Phelps surpassed her total in 2012."
+    },
+    {
+        "id": 97,
+        "sport": "Olympics",
+        "category": "Teams",
+        "difficulty": "Medium",
+        "fact": "The United States has won more total Olympic medals than any other nation across the history of the modern Summer Games."
+    },
+    {
+        "id": 98,
+        "sport": "Olympics",
+        "category": "Trivia",
+        "difficulty": "Medium",
+        "fact": "The Olympic flame is lit months before each Games in Olympia, Greece, and relayed by torchbearers to the host city."
+    },
+    {
+        "id": 99,
+        "sport": "Olympics",
+        "category": "Players",
+        "difficulty": "Hard",
+        "fact": "Nadia Comaneci became the first gymnast to score a perfect 10 in Olympic competition at the 1976 Montreal Games."
+    },
+    {
+        "id": 100,
+        "sport": "Olympics",
+        "category": "Venues",
+        "difficulty": "Hard",
+        "fact": "The Panathenaic Stadium in Athens, built entirely of marble, hosted the first modern Olympic Games in 1896."
+    }
+]
