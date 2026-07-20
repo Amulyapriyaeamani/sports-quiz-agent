@@ -240,16 +240,19 @@ Interactive Streamlit Quiz
 
 ### Home Page
 
-_Add screenshot_
+![Home Page](screenshots/home.png)
 
 ### Generated Quiz
 
-_Add screenshot_
+![Questions](screenshots/questions.png)
 
 ### Quiz Results
 
-_Add screenshot_
+![Results](screenshots/results.png)
 
+### Score 
+
+![Score](screenshots/score.png)
 ---
 
 ## Future Improvements
